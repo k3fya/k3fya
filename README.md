@@ -1,6 +1,5 @@
 <div align="center">
 <img src="assets/20241023_033413.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=50&duration=4000&pause=300&color=F2EBBE&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there!;I'm+k3fya%2C+a+cultured+milk+internet+user" width="70%" />
 <br><br>
 <pre>
     🥐 Quaso 🥐
