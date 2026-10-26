@@ -1,11 +1,11 @@
 <div align="center">
-<img src="assets/20241023_033413.jpg" width="25%" align="right" />
+<img src="assets/10168077a9047451440df2b2e04152b7.jpg" width="25%" align="right" />
 <br><br>
 <pre>
     🥐 Quaso 🥐
 </pre>
 <br>
-<img src="https://media.tenor.com/cd8HRyOra7EAAAAM/nijika-ijichi.gif" height="80" />
+<img src="assets/6151b937f6cc37506bdffb11cf60d14c.jpg" height="80" />
 <br><br>
     
 [![](https://img.shields.io/badge/telegram-158cc7)](https://t.me/k3fya)
